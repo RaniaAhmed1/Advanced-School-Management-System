@@ -1,4 +1,4 @@
-# Advanced-School-Management_System
+# Advanced-School-Management-System
 A simple yet structured **School Management System** built in **C#**, designed using **Object-Oriented Programming (OOP)** principles and inspired by **SOLID** design practices.
 
 This project simulates the core functions of a school administration interface where students can be registered, enrolled in courses, and their information managed through a clean, console-based user interface.
